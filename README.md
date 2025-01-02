@@ -1,6 +1,6 @@
 👋 Hi, I’m Elliott Walker (@Intergalactyc).
 
-📫 You can reach me by email at 22walkerelliott@gmail.com.
+📫 You can reach me by email at walker.elliott.j@gmail.com.
 
 <!---
 Intergalactyc/Intergalactyc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
